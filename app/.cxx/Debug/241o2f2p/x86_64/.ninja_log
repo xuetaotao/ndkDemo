@@ -1,5 +1,0 @@
-# ninja log v5
-0	137	1722235984241346870	CMakeFiles/ndkdemo.dir/native-lib.cpp.o	3af92565bb58a542
-137	190	1722235984282322260	/Users/xuetaotao/Downloads/Program/demo/ndkDemo/app/build/intermediates/cxx/Debug/241o2f2p/obj/x86_64/libndkdemo.so	59c214fb1a8cc8db
-0	144	1722246399422534640	CMakeFiles/ndkdemo.dir/native-lib.cpp.o	3af92565bb58a542
-144	206	1722246399470473372	/Users/xuetaotao/Downloads/Program/demo/ndkDemo/app/build/intermediates/cxx/Debug/241o2f2p/obj/x86_64/libndkdemo.so	59c214fb1a8cc8db

@@ -1,3 +1,0 @@
-/Users/xuetaotao/Downloads/Program/demo/ndkDemo/app/.cxx/Debug/241o2f2p/x86_64/CMakeFiles/ndkdemo.dir
-/Users/xuetaotao/Downloads/Program/demo/ndkDemo/app/.cxx/Debug/241o2f2p/x86_64/CMakeFiles/edit_cache.dir
-/Users/xuetaotao/Downloads/Program/demo/ndkDemo/app/.cxx/Debug/241o2f2p/x86_64/CMakeFiles/rebuild_cache.dir

@@ -1,3 +1,0 @@
-/Users/xuetaotao/Downloads/Program/demo/ndkDemo/app/.cxx/RelWithDebInfo/yq31216r/x86/CMakeFiles/ndkdemo.dir
-/Users/xuetaotao/Downloads/Program/demo/ndkDemo/app/.cxx/RelWithDebInfo/yq31216r/x86/CMakeFiles/edit_cache.dir
-/Users/xuetaotao/Downloads/Program/demo/ndkDemo/app/.cxx/RelWithDebInfo/yq31216r/x86/CMakeFiles/rebuild_cache.dir
