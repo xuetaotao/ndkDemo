@@ -1,0 +1,1 @@
+/Users/xuetaotao/Downloads/Program/demo/ndkDemo/app/build/intermediates/cxx/Debug/241o2f2p/obj/arm64-v8a

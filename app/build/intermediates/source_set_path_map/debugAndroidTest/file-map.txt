@@ -1,0 +1,5 @@
+com.example.ndkdemo.test.app-core-1.6.1-0 /Users/xuetaotao/.gradle/caches/transforms-3/f3bdc8fbb37936908d976aa802ba5c7b/transformed/core-1.6.1/res
+com.example.ndkdemo.test.app-androidTest-1 /Users/xuetaotao/Downloads/Program/demo/ndkDemo/app/build/generated/res/resValues/androidTest/debug
+com.example.ndkdemo.test.app-mergeDebugAndroidTestResources-2 /Users/xuetaotao/Downloads/Program/demo/ndkDemo/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
+com.example.ndkdemo.test.app-mergeDebugAndroidTestResources-3 /Users/xuetaotao/Downloads/Program/demo/ndkDemo/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
+com.example.ndkdemo.test.app-merged_res-4 /Users/xuetaotao/Downloads/Program/demo/ndkDemo/app/build/intermediates/merged_res/debugAndroidTest

@@ -1,0 +1,27 @@
+{
+  "buildFiles": [
+    "/Users/xuetaotao/Downloads/Program/demo/ndkDemo/app/src/main/cpp/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/xuetaotao/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/xuetaotao/Downloads/Program/demo/ndkDemo/app/.cxx/Debug/241o2f2p/x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/xuetaotao/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/xuetaotao/Downloads/Program/demo/ndkDemo/app/.cxx/Debug/241o2f2p/x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "ndkdemo::@6890427a1f51a3e7e1df": {
+      "artifactName": "ndkdemo",
+      "abi": "x86",
+      "output": "/Users/xuetaotao/Downloads/Program/demo/ndkDemo/app/build/intermediates/cxx/Debug/241o2f2p/obj/x86/libndkdemo.so",
+      "runtimeFiles": []
+    }
+  }
+}

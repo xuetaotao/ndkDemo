@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/xuetaotao/.gradle/daemon/8.2/com.example.ndkdemo.app-mergeDebugResources-30:/layout/activity_main.xml",
+        "source": "/Users/xuetaotao/.gradle/daemon/8.2/com.example.ndkdemo.app-main-33:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.ndkdemo.app-mergeDebugResources-30:/layout/activity_main.xml",
+        "source": "com.example.ndkdemo.app-main-33:/layout/activity_main.xml"
+    }
+]

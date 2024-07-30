@@ -1,0 +1,3 @@
+/Users/xuetaotao/Downloads/Program/demo/ndkDemo/nativelib/.cxx/Debug/2q2q1928/arm64-v8a/CMakeFiles/nativelib.dir
+/Users/xuetaotao/Downloads/Program/demo/ndkDemo/nativelib/.cxx/Debug/2q2q1928/arm64-v8a/CMakeFiles/edit_cache.dir
+/Users/xuetaotao/Downloads/Program/demo/ndkDemo/nativelib/.cxx/Debug/2q2q1928/arm64-v8a/CMakeFiles/rebuild_cache.dir

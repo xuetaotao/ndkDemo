@@ -1,0 +1,3 @@
+/Users/xuetaotao/Downloads/Program/demo/ndkDemo/app/.cxx/Debug/241o2f2p/armeabi-v7a/CMakeFiles/ndkdemo.dir
+/Users/xuetaotao/Downloads/Program/demo/ndkDemo/app/.cxx/Debug/241o2f2p/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/xuetaotao/Downloads/Program/demo/ndkDemo/app/.cxx/Debug/241o2f2p/armeabi-v7a/CMakeFiles/rebuild_cache.dir

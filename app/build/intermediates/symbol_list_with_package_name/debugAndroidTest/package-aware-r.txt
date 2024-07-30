@@ -1,0 +1,3 @@
+com.example.ndkdemo.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme

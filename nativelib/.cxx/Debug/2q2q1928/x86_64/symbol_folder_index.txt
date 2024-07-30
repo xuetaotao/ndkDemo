@@ -1,0 +1,1 @@
+/Users/xuetaotao/Downloads/Program/demo/ndkDemo/nativelib/build/intermediates/cxx/Debug/2q2q1928/obj/x86_64

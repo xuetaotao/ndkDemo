@@ -1,0 +1,3 @@
+# ninja log v5
+353	1614	1722243631330042534	/Users/xuetaotao/Downloads/Program/demo/ndkDemo/nativelib/build/intermediates/cxx/Debug/2q2q1928/obj/arm64-v8a/libnativelib.so	7c9cf5612c36c8e8
+1	353	1722243630082119036	CMakeFiles/nativelib.dir/nativelib.cpp.o	da5da5d4742adab6
