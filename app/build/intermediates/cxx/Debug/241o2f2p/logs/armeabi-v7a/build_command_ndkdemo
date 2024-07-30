@@ -1,4 +1,0 @@
-/Users/xuetaotao/Library/Android/sdk/cmake/3.22.1/bin/ninja \
-  -C \
-  /Users/xuetaotao/Downloads/Program/demo/ndkDemo/app/.cxx/Debug/241o2f2p/armeabi-v7a \
-  ndkdemo
